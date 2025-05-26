@@ -39,7 +39,7 @@ import requests
 import pandas as pd
 import time
 
-api_key = "579f7b0ed7a7372374733520"
+api_key = "   " #Pleanse enter your own api key
 base_url = f"https://v6.exchangerate-api.com/v6/{api_key}/latest/"
 
 # Currencies you want to extract exchange rates to
